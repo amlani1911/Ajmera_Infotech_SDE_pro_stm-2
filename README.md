@@ -18,7 +18,7 @@ You can install these libraries using the following commands:
 ```bash
 pip install beautifulsoup4
 pip install pandas
-pip install requests` 
+pip install requests
 ```
 
 ## Project Structure
